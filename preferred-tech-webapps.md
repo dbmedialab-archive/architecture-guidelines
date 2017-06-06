@@ -1,4 +1,4 @@
-== Preferred technology in webapps ==
+## Preferred technology in webapps
 github for centralized git repo
 
 node for running js on the server
