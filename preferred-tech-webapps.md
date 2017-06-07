@@ -15,6 +15,7 @@
 * aurora-core for routing config to components
 * aurora-core/aurora-deep-slice-merge for pagination and continuous scrolling
 * styled-components for styling
+* storybook for styleguides
 * @TODO consider next for static routing
 * @TODO consider next for dynamic routing
 * @TODO consider next and/or react-router for client-side routing
