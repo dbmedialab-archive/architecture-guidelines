@@ -16,12 +16,14 @@
 * aurora-core/aurora-deep-slice-merge for pagination and continuous scrolling
 * styled-components for styling
 * storybook for styleguides
+* dotenv for configuration
+
 * @TODO consider next for static routing
 * @TODO consider next for dynamic routing
 * @TODO consider next and/or react-router for client-side routing
 
 #### Javascript Libraries
-* @TODO consider bluebird for promises. Claims to be faster. Used from before the standard spec. Also contains lots of useful functions that extend the standard specification (`Promise.reduce`, `Promise.any`, `Promise.map` - just to name a few)
+* bluebird for promises. Claims to be faster. Used from before the standard spec. Also contains lots of useful functions that extend the standard specification (`Promise.reduce`, `Promise.any`, `Promise.map` - just to name a few)
 * debug for logging
 * axios for http requests
 
