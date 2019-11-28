@@ -3,15 +3,15 @@
 - Use Prettier to get a common style for all code
 - If a project needs shared components it should be in the Wolverine ecosystem
 - Write tests
- - Test the end result (does the article components have an href etc.)
- - Write integration tests
- - Check out basic Jest example (when Just is finished)
- - Check out basic Storybook example (when Just is finished)
+  - Test the end result (does the article components have an href etc.)
+  - Write integration tests
+  - Check out basic Jest example (when Just is finished)
+  - Check out basic Storybook example (when Just is finished)
 - Be critical to third party packages
- - Always check if there already is something in the package file that does what you need
- - If it’s a small package: maybe just copy-paste code instead of adding a dependency?
-- Write documentation 
- - Please write some comments about what your function does
- - Check for documentation in code reviews
+  - Always check if there already is something in the package file that does what you need
+  - If it’s a small package: maybe just copy-paste code instead of adding a dependency?
+- Write documentation
+  - Please write some comments about what your function does
+  - Check for documentation in code reviews
 - Do code reviews
- - Also do code reviews for quick fixes
+  - Also do code reviews for quick fixes
