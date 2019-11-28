@@ -1,7 +1,7 @@
-= Design system guidelines =
+# Design system guidelines
 These guidelines outline our approach to creating and maintaining a unified design system across our brands and services.
 
-== Guidelines ==
+## Guidelines
 Use a component-based approach with a single folder per component
 - markup
 - styles
@@ -25,7 +25,7 @@ Cross-site focus
 - Sizes and colors should always be themed
 - These variables come from a separate theme package
 
-== Practical solutions ==
+## Practical solutions
 File structures
 - /packages/labrador-resources/view/content/ - components with mustache templates
 - /packages/shared/components/ - components without mustache templates
