@@ -1,3 +1,8 @@
+# DEPRECATED - DO NOT USE
+Any wiki-esque activity should be in https://github.com/dbmedialab/wiki-devops - which is hosted on https://wiki.medialaben.no
+
+-----------------------------------
+
 # architecture-guidelines
 Preferred web app technologies from Bloksberg.
 
